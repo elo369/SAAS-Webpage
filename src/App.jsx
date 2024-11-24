@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Header from './components/Header.jsx'
-import HeroSection from './components/heroSection.jsx'
+import HeroSection from './components/HeroSection.jsx'
 import Service from './components/Service.jsx'
 import Footer from './components/Footer.jsx'
 
